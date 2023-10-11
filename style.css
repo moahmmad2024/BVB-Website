@@ -1,0 +1,69 @@
+* {
+  height: auto;
+  margin: 0 auto;
+  text-align: left;
+  gap: 5px;
+}
+
+a {
+  font-weight: bolder;
+  color: rgb(0, 64, 255);
+  font-size: 18px;
+}
+h3 {
+  color: crimson;
+}
+.container {
+  padding: 2%;
+}
+.main {
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+.section-1 {
+  width: 40%;
+  margin: 10px;
+}
+.main input {
+  width: 50%;
+  height: 25px;
+  margin-top: 20px;
+}
+.main select {
+  width: 10%;
+  height: 25px;
+}
+.section-2 {
+  width: 40%;
+}
+
+.section-2 img {
+  width: 70%;
+}
+.section-2 a {
+  font-size: 25px;
+}
+.section-3 {
+  width: 20%;
+}
+.box img {
+  width: 60%;
+}
+#text {
+  width: 700px;
+  height: 100px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.container-2 img {
+  width: 15%;
+}
+.container-3 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.container-3 img {
+  width: 100px;
+}
